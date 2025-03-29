@@ -1,4 +1,3 @@
-# tcga-wsi-classifier
 # TCGA Breast Cancer WSI Image Classifier
 
 ## Overview
